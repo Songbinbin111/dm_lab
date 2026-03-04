@@ -1,0 +1,719 @@
+{
+  "metadata": {
+    "scenic_spot": "九寨沟",
+    "generated_at": "2026-03-03T23:27:05.384876",
+    "graph_stats": {
+      "total_nodes": 20,
+      "total_edges": 15
+    },
+    "condition_cleaning_report": {
+      "input_advice_count": 0,
+      "output_advice_count": 0,
+      "dropped_count": 0,
+      "dropped_reasons": {},
+      "kept_other_subtypes": {},
+      "condition_node_count": 0
+    }
+  },
+  "nodes": [
+    {
+      "id": "poi_诺日朗中心站",
+      "type": "poi",
+      "label": "诺日朗中心站",
+      "properties": {
+        "display_label": "诺日朗中心站",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_盆景滩",
+      "type": "poi",
+      "label": "盆景滩",
+      "properties": {
+        "display_label": "盆景滩",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_沟口乘车",
+      "type": "poi",
+      "label": "沟口乘车",
+      "properties": {
+        "display_label": "沟口乘车",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_箭竹海",
+      "type": "poi",
+      "label": "箭竹海",
+      "properties": {
+        "display_label": "箭竹海",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_诺日朗群海",
+      "type": "poi",
+      "label": "诺日朗群海",
+      "properties": {
+        "display_label": "诺日朗群海",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_五花海",
+      "type": "poi",
+      "label": "五花海",
+      "properties": {
+        "display_label": "五花海",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_原始森林",
+      "type": "poi",
+      "label": "原始森林",
+      "properties": {
+        "display_label": "原始森林",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_镜海",
+      "type": "poi",
+      "label": "镜海",
+      "properties": {
+        "display_label": "镜海",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_五彩池",
+      "type": "poi",
+      "label": "五彩池",
+      "properties": {
+        "display_label": "五彩池",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_双龙海",
+      "type": "poi",
+      "label": "双龙海",
+      "properties": {
+        "display_label": "双龙海",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_熊猫海",
+      "type": "poi",
+      "label": "熊猫海",
+      "properties": {
+        "display_label": "熊猫海",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_天鹅海",
+      "type": "poi",
+      "label": "天鹅海",
+      "properties": {
+        "display_label": "天鹅海",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_芳草海",
+      "type": "poi",
+      "label": "芳草海",
+      "properties": {
+        "display_label": "芳草海",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_长海",
+      "type": "poi",
+      "label": "长海",
+      "properties": {
+        "display_label": "长海",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_犀牛海",
+      "type": "poi",
+      "label": "犀牛海",
+      "properties": {
+        "display_label": "犀牛海",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_卧龙海",
+      "type": "poi",
+      "label": "卧龙海",
+      "properties": {
+        "display_label": "卧龙海",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_地区",
+      "type": "poi",
+      "label": "地区",
+      "properties": {
+        "display_label": "地区",
+        "source": "visitor",
+        "weight": 0.45,
+        "importance_score": 0.45,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_天湖",
+      "type": "poi",
+      "label": "天湖",
+      "properties": {
+        "display_label": "天湖",
+        "source": "visitor",
+        "weight": 0.45,
+        "importance_score": 0.45,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_旅游区",
+      "type": "poi",
+      "label": "旅游区",
+      "properties": {
+        "display_label": "旅游区",
+        "source": "visitor",
+        "weight": 0.45,
+        "importance_score": 0.45,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_青城山",
+      "type": "poi",
+      "label": "青城山",
+      "properties": {
+        "display_label": "青城山",
+        "source": "visitor",
+        "weight": 0.45,
+        "importance_score": 0.45,
+        "original_type": "poi"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "poi_诺日朗中心站",
+      "target": "poi_长海",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          10
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          10
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "20 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_盆景滩",
+      "target": "poi_沟口乘车",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          15
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          15
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_沟口乘车",
+      "target": "poi_原始森林",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          1
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          1
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_箭竹海",
+      "target": "poi_熊猫海",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          5
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          5
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "15 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_诺日朗群海",
+      "target": "poi_诺日朗中心站",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          9
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          9
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_五花海",
+      "target": "poi_镜海",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          7
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          7
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "20 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_原始森林",
+      "target": "poi_芳草海",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          2
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          2
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "20 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_镜海",
+      "target": "poi_诺日朗群海",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          8
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          8
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "10 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_五彩池",
+      "target": "poi_犀牛海",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          12
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          12
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "20 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_双龙海",
+      "target": "poi_盆景滩",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          14
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          14
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "10 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_熊猫海",
+      "target": "poi_五花海",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          6
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          6
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "20 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_天鹅海",
+      "target": "poi_箭竹海",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          4
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          4
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "15 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_芳草海",
+      "target": "poi_天鹅海",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          3
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          3
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "10 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_长海",
+      "target": "poi_五彩池",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          11
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          11
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "15 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_卧龙海",
+      "target": "poi_双龙海",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          13
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          13
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    }
+  ]
+}

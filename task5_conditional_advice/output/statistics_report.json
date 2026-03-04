@@ -1,0 +1,27 @@
+{
+  "total_advice": 9,
+  "total_travelogs": 15,
+  "avg_advice_per_travelog": 0.6,
+  "by_condition_type": {
+    "other": 6,
+    "time": 1,
+    "route": 2
+  },
+  "by_scenic_spot": {
+    "故宫": 8,
+    "黄山": 1
+  },
+  "by_visitor_type": {
+    "general": 9
+  },
+  "pattern_distribution": {
+    "if_then": 3,
+    "condition_suffix_then": 1,
+    "fallback": 5
+  },
+  "confidence_distribution": {
+    "high": 9,
+    "medium": 0,
+    "low": 0
+  }
+}

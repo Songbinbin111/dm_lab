@@ -1,0 +1,51 @@
+{
+  "overall_metrics": {
+    "total_manual_annotations": 15,
+    "total_auto_extracted": 9,
+    "correct": 9,
+    "incorrect": 0,
+    "partial": 0,
+    "not_found": 6,
+    "precision": 100.0,
+    "recall": 60.0,
+    "f1_score": 75.0
+  },
+  "by_condition_type": {
+    "other": {
+      "accuracy": 60.0,
+      "correct": 6,
+      "total": 10
+    },
+    "time": {
+      "accuracy": 33.3,
+      "correct": 1,
+      "total": 3
+    },
+    "route": {
+      "accuracy": 100.0,
+      "correct": 2,
+      "total": 2
+    }
+  },
+  "by_pattern_type": {
+    "if_then": {
+      "accuracy": 33.3,
+      "correct": 3,
+      "total": 9
+    },
+    "condition_suffix_then": {
+      "accuracy": 100.0,
+      "correct": 1,
+      "total": 1
+    },
+    "fallback": {
+      "accuracy": 100.0,
+      "correct": 5,
+      "total": 5
+    }
+  },
+  "error_analysis": {
+    "error_types": {},
+    "error_examples": []
+  }
+}

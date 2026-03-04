@@ -1,0 +1,37 @@
+{
+  "poi": {
+    "label": "景点",
+    "color": "#3B82F6",
+    "shape": "o",
+    "size_base": 800,
+    "alpha": 0.85
+  },
+  "transport": {
+    "label": "交通",
+    "color": "#22C55E",
+    "shape": "d",
+    "size_base": 400,
+    "alpha": 0.8
+  },
+  "operation": {
+    "label": "操作",
+    "color": "#F59E0B",
+    "shape": "s",
+    "size_base": 500,
+    "alpha": 0.8
+  },
+  "condition": {
+    "label": "条件",
+    "color": "#8B5CF6",
+    "shape": "h",
+    "size_base": 450,
+    "alpha": 0.85
+  },
+  "time_period": {
+    "label": "时段",
+    "color": "#6366F1",
+    "shape": "^",
+    "size_base": 350,
+    "alpha": 0.75
+  }
+}

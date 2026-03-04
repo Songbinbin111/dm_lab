@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "description": "手工标注的代词指代消解结果 - 适配当前数据集",
+    "annotated_at": "2026-03-03",
+    "total_annotations": 15,
+    "annotation_schema": {
+      "sentence_id": "句子唯一标识",
+      "sentence": "包含代词的句子",
+      "pronoun": "代词",
+      "pronoun_type": "代词类型",
+      "manual_antecedent": "先行词",
+      "antecedent_type": "先行词类型",
+      "confidence": "标注置信度",
+      "notes": "备注"
+    }
+  },
+  "annotations": [
+    {
+      "sentence_id": "九寨沟_九寨沟_travelog_3_11",
+      "sentence": "下山时,在水帘瀑布侧前方的柏油道旁,石勒朱红色铭文分外醒目,原来是南宋石应孙的七绝题诗,\"珠帘巧费水日裁,万古垂垂浅碧苔\"一句应景赋和,将他的所闻所感录放在这里,移花接木,或许因物生情",
+      "pronoun": "他",
+      "pronoun_type": "personal",
+      "manual_antecedent": "石应孙",
+      "antecedent_type": "Person",
+      "confidence": "high",
+      "notes": "指代南宋诗人石应孙"
+    },
+    {
+      "sentence_id": "故宫_故宫_travelog_2_3",
+      "sentence": "湖南省政协委员,省文明和旅游厅一级巡查员王超祥体现,报告中对于大肆发展文旅产业的内容,让他感触颇深.",
+      "pronoun": "他",
+      "pronoun_type": "personal",
+      "manual_antecedent": "王超祥",
+      "antecedent_type": "Person",
+      "confidence": "high",
+      "notes": "指代王超祥"
+    },
+    {
+      "sentence_id": "故宫_故宫_travelog_3_3",
+      "sentence": "后游览中国开放最早,饲养展出动物种类最多的动物园--[北京动物园],这里饲养展览动物500余种5000多只",
+      "pronoun": "这里",
+      "pronoun_type": "demonstrative_location",
+      "manual_antecedent": "北京动物园",
+      "antecedent_type": "POI",
+      "confidence": "high",
+      "notes": "指代北京动物园"
+    },
+    {
+      "sentence_id": "故宫_故宫_travelog_3_5",
+      "sentence": "参观我国古代考场 - - 江南贡院,唐伯虎,郑板桥,林则徐,董必武都曾经在这里学习过,考试过",
+      "pronoun": "这里",
+      "pronoun_type": "demonstrative_location",
+      "manual_antecedent": "江南",
+      "antecedent_type": "POI",
+      "confidence": "high",
+      "notes": "指代江南贡院"
+    },
+    {
+      "sentence_id": "故宫_故宫_travelog_3_6",
+      "sentence": "中餐后游览天下西湖三十六,就中最好是杭州的一--[西湖风景区],该景区是一处以秀丽清雅的湖光山色与璀璨丰蕴的文物古迹和文化艺术交融一体的国家级风景名胜区",
+      "pronoun": "该景区",
+      "pronoun_type": "demonstrative_phrase",
+      "manual_antecedent": "西湖",
+      "antecedent_type": "POI",
+      "confidence": "high",
+      "notes": "指代西湖风景区"
+    },
+    {
+      "sentence_id": "故宫_故宫_travelog_3_15",
+      "sentence": "3,行程中未提到的其它费用:如特殊门票,游船(轮),缆车,景区内电瓶车,动车票等费用;",
+      "pronoun": "景区内",
+      "pronoun_type": "demonstrative_phrase",
+      "manual_antecedent": "景区",
+      "antecedent_type": "Location",
+      "confidence": "medium",
+      "notes": "泛指景区内部"
+    },
+    {
+      "sentence_id": "故宫_故宫_travelog_3_22",
+      "sentence": "4,行程所含门票指进入景区的首道门票,不包括该景区内电瓶车或景区内其他另行付费景点门票.",
+      "pronoun": "该景区",
+      "pronoun_type": "demonstrative_phrase",
+      "manual_antecedent": "景区",
+      "antecedent_type": "Location",
+      "confidence": "medium",
+      "notes": "指代前文提到的景区"
+    },
+    {
+      "sentence_id": "故宫_故宫_travelog_3_22",
+      "sentence": "景区内电瓶车或景区内其他另行付费景点门票",
+      "pronoun": "景区内",
+      "pronoun_type": "demonstrative_phrase",
+      "manual_antecedent": "景区",
+      "antecedent_type": "Location",
+      "confidence": "medium",
+      "notes": "指代景区内部"
+    },
+    {
+      "sentence_id": "故宫_故宫_travelog_4_12",
+      "sentence": "在这里,悬崖为游乐场特了一层实景体验的滤镜",
+      "pronoun": "这里",
+      "pronoun_type": "demonstrative_location",
+      "manual_antecedent": "奥陶纪",
+      "antecedent_type": "POI",
+      "confidence": "high",
+      "notes": "指代奥陶纪景区"
+    },
+    {
+      "sentence_id": "黄山_黄山_travelog_1_2",
+      "sentence": "山间有自然冲沟一条,断断续续,局部冲沟内有少量积水,水体清澈,半山建小型水库一座.",
+      "pronoun": "沟内",
+      "pronoun_type": "demonstrative_phrase",
+      "manual_antecedent": "自然冲沟",
+      "antecedent_type": "Location",
+      "confidence": "high",
+      "notes": "指代自然冲沟内部"
+    },
+    {
+      "sentence_id": "黄山_黄山_travelog_1_9",
+      "sentence": "根据规划,公园内需建别墅群30000平方米,四星级酒店一处...",
+      "pronoun": "园内",
+      "pronoun_type": "demonstrative_phrase",
+      "manual_antecedent": "公园",
+      "antecedent_type": "Location",
+      "confidence": "high",
+      "notes": "指代喜鹊山公园"
+    },
+    {
+      "sentence_id": "九寨沟_九寨沟_travelog_1_3",
+      "sentence": "郫县因\"杜宇化鹃\"的美丽传说郫县又称鹃城县花为杜鹃花县鸟为杜鹃鸟.历史文化遗迹众多望丛祠,杜鹃城遗址,古城遗址,扬雄墓,子云亭(因一句\"南阳诸葛庐西蜀子云亭\"成名)等被列入国家重点文物管理局主编的\"中国名胜辞典\".此外还有何武墓,何公祠,郫筒井,严君平墓,梅花御井,蓝家坡山汉墓等.郫县郫筒镇有\"望从祠\"其名为纪念古蜀国的望帝和丛帝.望帝即望帝杜宇丛帝即开明又称鳖灵.李商隐诗句\"望帝春心托杜鹃\"所说的就是他们的故事.",
+      "pronoun": "他们",
+      "pronoun_type": "personal",
+      "manual_antecedent": "望帝和丛帝",
+      "antecedent_type": "Person",
+      "confidence": "high",
+      "notes": "指代前文提到的望帝和丛帝"
+    },
+    {
+      "sentence_id": "九寨沟_九寨沟_travelog_3_7",
+      "sentence": "他历经艰险困厄,幡然醒悟,于是苦行修炼,还勇斗孽龙,降魔治水,终成正果,得赐金身天龙.能施降甘霖,惠及四方,使这里风调雨顺,人寿安康,百姓幸福,从此褒赞之誉在民间传播开来.",
+      "pronoun": "他",
+      "pronoun_type": "personal",
+      "manual_antecedent": "十三太子",
+      "antecedent_type": "Person",
+      "confidence": "high",
+      "notes": "指代前文提到的龙王太子"
+    },
+    {
+      "sentence_id": "九寨沟_九寨沟_travelog_4_11",
+      "sentence": "2020年2019年3月27日,我们与四川签署协同提高旅游业发展合同,它是两省区拓张经贸,搭建发展双赢的全局性对策.",
+      "pronoun": "它",
+      "pronoun_type": "personal",
+      "manual_antecedent": "合同",
+      "antecedent_type": "Object",
+      "confidence": "high",
+      "notes": "指代前文的旅游业发展合同"
+    },
+    {
+      "sentence_id": "九寨沟_九寨沟_travelog_3_3",
+      "sentence": "这里,山谷林木蓊郁,枫叶红过又随山风飘落,那枝头的红叶摇成小旗,在欢呼,歌唱,幽静的文昌阁则矗守在半山腰.辽东栎成为山上一道靓丽的风景线.",
+      "pronoun": "这里",
+      "pronoun_type": "demonstrative_location",
+      "manual_antecedent": "九寨沟",
+      "antecedent_type": "POI",
+      "confidence": "medium",
+      "notes": "根据上下文推断为九寨沟"
+    }
+  ]
+}

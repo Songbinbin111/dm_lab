@@ -1,0 +1,58 @@
+{
+  "scenic_spot": "黄山",
+  "generated_at": "2026-03-03T23:27:05.923139",
+  "fusion_statistics": {
+    "official_poi_count": 16,
+    "visitor_poi_count": 30,
+    "fused_poi_count": 17,
+    "visitor_supplemented_count": 1,
+    "advice_matched_count": 0,
+    "advice_unmatched_count": 1
+  },
+  "route_normalization_report": {
+    "route_format": "arrow_text",
+    "parsed_route_count": 15,
+    "normalized_route_count": 15,
+    "official_poi_count": 16,
+    "time_period_count": 0
+  },
+  "recommended_route": {
+    "route_id": "main",
+    "reason": "single_route",
+    "score": 1.0,
+    "route_scores": {
+      "main": 1.0
+    }
+  },
+  "visitor_supplemented": [
+    "地区"
+  ],
+  "visitor_supplemented_details": [
+    {
+      "poi": "地区",
+      "doc_frequency": 2,
+      "score": 0.61,
+      "source": "visitor"
+    }
+  ],
+  "condition_cleaning_report": {
+    "input_advice_count": 0,
+    "output_advice_count": 0,
+    "dropped_count": 0,
+    "dropped_reasons": {},
+    "kept_other_subtypes": {},
+    "condition_node_count": 0
+  },
+  "graph_statistics": {
+    "total_nodes": 17,
+    "total_edges": 15,
+    "node_types": {
+      "poi": 17
+    },
+    "edge_types": {
+      "sequence": 15
+    },
+    "condition_subtypes": {}
+  },
+  "condition_advice_samples": []
+}

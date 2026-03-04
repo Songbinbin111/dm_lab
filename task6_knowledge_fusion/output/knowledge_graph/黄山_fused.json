@@ -1,0 +1,264 @@
+{
+  "scenic_spot": "黄山",
+  "fused_pois": [
+    "黑虎松",
+    "黄山南大门",
+    "排云亭景观区",
+    "慈光阁景观区",
+    "玉屏楼景观区",
+    "云谷寺景观区",
+    "西海大峡谷一环",
+    "鳌鱼峰",
+    "百步云梯",
+    "大王松",
+    "白鹅岭",
+    "白云宾馆",
+    "飞来石",
+    "始信峰景观区",
+    "打卡标志性迎客松)玉屏楼",
+    "光明顶",
+    "地区"
+  ],
+  "poi_weights": {
+    "黑虎松": 0.7,
+    "黄山南大门": 0.7,
+    "排云亭景观区": 0.7,
+    "慈光阁景观区": 0.7,
+    "玉屏楼景观区": 0.7,
+    "云谷寺景观区": 0.7,
+    "西海大峡谷一环": 0.7,
+    "鳌鱼峰": 0.7,
+    "百步云梯": 0.7,
+    "大王松": 0.7,
+    "白鹅岭": 0.7,
+    "白云宾馆": 0.7,
+    "飞来石": 0.7,
+    "始信峰景观区": 0.7,
+    "打卡标志性迎客松)玉屏楼": 0.7,
+    "光明顶": 0.7,
+    "地区": 0.45
+  },
+  "statistics": {
+    "official_poi_count": 16,
+    "visitor_poi_count": 30,
+    "fused_poi_count": 17,
+    "visitor_supplemented_count": 1,
+    "advice_matched_count": 0,
+    "advice_unmatched_count": 1
+  },
+  "time_periods": {},
+  "normalized_routes": [
+    {
+      "from_poi": "黄山南大门",
+      "to_poi": "云谷寺景观区",
+      "route_id": "main",
+      "sequence_index": 1,
+      "period": "清晨",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "云谷寺景观区",
+      "to_poi": "白鹅岭",
+      "route_id": "main",
+      "sequence_index": 2,
+      "period": "清晨",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "白鹅岭",
+      "to_poi": "始信峰景观区",
+      "route_id": "main",
+      "sequence_index": 3,
+      "period": "清晨",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "20 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "始信峰景观区",
+      "to_poi": "黑虎松",
+      "route_id": "main",
+      "sequence_index": 4,
+      "period": "清晨",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "5 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "黑虎松",
+      "to_poi": "大王松",
+      "route_id": "main",
+      "sequence_index": 5,
+      "period": "清晨",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "2 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "大王松",
+      "to_poi": "排云亭景观区",
+      "route_id": "main",
+      "sequence_index": 6,
+      "period": "清晨",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "15 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "排云亭景观区",
+      "to_poi": "西海大峡谷一环",
+      "route_id": "main",
+      "sequence_index": 7,
+      "period": "清晨",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "20 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "西海大峡谷一环",
+      "to_poi": "飞来石",
+      "route_id": "main",
+      "sequence_index": 8,
+      "period": "上午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "10 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "飞来石",
+      "to_poi": "光明顶",
+      "route_id": "main",
+      "sequence_index": 9,
+      "period": "上午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "15 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "光明顶",
+      "to_poi": "白云宾馆",
+      "route_id": "main",
+      "sequence_index": 10,
+      "period": "中午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "白云宾馆",
+      "to_poi": "鳌鱼峰",
+      "route_id": "main",
+      "sequence_index": 11,
+      "period": "下午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "10 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "鳌鱼峰",
+      "to_poi": "百步云梯",
+      "route_id": "main",
+      "sequence_index": 12,
+      "period": "下午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "5 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "百步云梯",
+      "to_poi": "玉屏楼景观区",
+      "route_id": "main",
+      "sequence_index": 13,
+      "period": "上午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "打卡标志性迎客松)玉屏楼",
+      "to_poi": "慈光阁景观区",
+      "route_id": "main",
+      "sequence_index": 14,
+      "period": "下午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "慈光阁景观区",
+      "to_poi": "黄山南大门",
+      "route_id": "main",
+      "sequence_index": 15,
+      "period": "下午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "",
+      "source_format": "structured_time_route"
+    }
+  ],
+  "route_normalization_report": {
+    "route_format": "arrow_text",
+    "parsed_route_count": 15,
+    "normalized_route_count": 15,
+    "official_poi_count": 16,
+    "time_period_count": 0
+  },
+  "recommended_route": {
+    "route_id": "main",
+    "reason": "single_route",
+    "score": 1.0,
+    "route_scores": {
+      "main": 1.0
+    }
+  },
+  "visitor_supplemented": [
+    "地区"
+  ],
+  "visitor_supplemented_details": [
+    {
+      "poi": "地区",
+      "doc_frequency": 2,
+      "score": 0.61,
+      "source": "visitor"
+    }
+  ],
+  "condition_cleaning_report": {
+    "input_advice_count": 0,
+    "output_advice_count": 0,
+    "dropped_count": 0,
+    "dropped_reasons": {}
+  }
+}

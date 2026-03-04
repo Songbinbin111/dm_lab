@@ -1,0 +1,6 @@
+__pycache__
+.claude
+task3_route_hierarchy/debug
+task2_entity_recognition/debug
+.DS_Store
+task8_agent/.env

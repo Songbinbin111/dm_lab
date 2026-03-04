@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>旅游规划 Agent</title>
+  <link rel="stylesheet" href="/app.css">
+</head>
+<body>
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <h1>会话</h1>
+        <button id="new-session-btn" class="btn secondary">新建</button>
+      </div>
+      <div id="session-list" class="session-list"></div>
+    </aside>
+
+    <main class="chat-panel">
+      <header class="chat-header">
+        <h2>旅游规划 Agent</h2>
+        <p>基于 Eino ReAct + 知识图谱工具</p>
+      </header>
+
+      <section id="chat-messages" class="chat-messages"></section>
+
+      <footer class="chat-input-wrap">
+        <textarea id="message-input" placeholder="例如：我想带孩子去故宫玩一天，帮我规划路线"></textarea>
+        <div class="actions">
+          <button id="send-btn" class="btn primary">发送</button>
+        </div>
+      </footer>
+    </main>
+  </div>
+
+  <script src="/app.js"></script>
+</body>
+</html>

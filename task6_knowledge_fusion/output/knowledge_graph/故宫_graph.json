@@ -1,0 +1,701 @@
+{
+  "metadata": {
+    "scenic_spot": "故宫",
+    "generated_at": "2026-03-03T23:27:05.640821",
+    "graph_stats": {
+      "total_nodes": 19,
+      "total_edges": 15
+    },
+    "condition_cleaning_report": {
+      "input_advice_count": 1,
+      "output_advice_count": 1,
+      "dropped_count": 0,
+      "dropped_reasons": {},
+      "kept_other_subtypes": {},
+      "condition_node_count": 1
+    }
+  },
+  "nodes": [
+    {
+      "id": "poi_午门出口",
+      "type": "poi",
+      "label": "午门出口",
+      "properties": {
+        "display_label": "午门出口",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_坤宁宫",
+      "type": "poi",
+      "label": "坤宁宫",
+      "properties": {
+        "display_label": "坤宁宫",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_太和门",
+      "type": "poi",
+      "label": "太和门",
+      "properties": {
+        "display_label": "太和门",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_御花园",
+      "type": "poi",
+      "label": "御花园",
+      "properties": {
+        "display_label": "御花园",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_午门",
+      "type": "poi",
+      "label": "午门",
+      "properties": {
+        "display_label": "午门",
+        "source": "official",
+        "weight": 0.76,
+        "importance_score": 0.76,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_保和殿",
+      "type": "poi",
+      "label": "保和殿",
+      "properties": {
+        "display_label": "保和殿",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_故宫冰窖餐厅",
+      "type": "poi",
+      "label": "故宫冰窖餐厅",
+      "properties": {
+        "display_label": "故宫冰窖餐厅",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_乾清门",
+      "type": "poi",
+      "label": "乾清门",
+      "properties": {
+        "display_label": "乾清门",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_乾清宫",
+      "type": "poi",
+      "label": "乾清宫",
+      "properties": {
+        "display_label": "乾清宫",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_东华门",
+      "type": "poi",
+      "label": "东华门",
+      "properties": {
+        "display_label": "东华门",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_文华殿",
+      "type": "poi",
+      "label": "文华殿",
+      "properties": {
+        "display_label": "文华殿",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_冰窖餐厅",
+      "type": "poi",
+      "label": "冰窖餐厅",
+      "properties": {
+        "display_label": "冰窖餐厅",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_交泰殿",
+      "type": "poi",
+      "label": "交泰殿",
+      "properties": {
+        "display_label": "交泰殿",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_观赏故宫陶瓷馆藏_文华殿",
+      "type": "poi",
+      "label": "观赏故宫陶瓷馆藏)文华殿",
+      "properties": {
+        "display_label": "观赏故宫陶瓷馆藏)文华殿",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_太和殿",
+      "type": "poi",
+      "label": "太和殿",
+      "properties": {
+        "display_label": "太和殿",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_神武门",
+      "type": "poi",
+      "label": "神武门",
+      "properties": {
+        "display_label": "神武门",
+        "source": "official",
+        "weight": 0.76,
+        "importance_score": 0.76,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_中和殿",
+      "type": "poi",
+      "label": "中和殿",
+      "properties": {
+        "display_label": "中和殿",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_展区",
+      "type": "poi",
+      "label": "展区",
+      "properties": {
+        "display_label": "展区",
+        "source": "visitor",
+        "weight": 0.45,
+        "importance_score": 0.45,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "condition_route_就是故宫的午门",
+      "type": "condition",
+      "label": "就是故宫的午门",
+      "properties": {
+        "display_label": "就是故宫的午门",
+        "raw_condition": "就是故宫的午门",
+        "condition_type": "route",
+        "condition_type_label": "路线条件",
+        "condition_subtype": "route",
+        "confidence": 0.98,
+        "advice_samples": [
+          "可以到天安门城楼上去看看，下来后你一直往里面走，就是故宫的午门"
+        ],
+        "connected_pois": [
+          "午门"
+        ],
+        "weight": 0.9500000000000001,
+        "importance_score": 0.6799999999999999,
+        "original_type": "condition"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "poi_坤宁宫",
+      "target": "poi_故宫冰窖餐厅",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          9
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          9
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_太和门",
+      "target": "poi_太和殿",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          2
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          2
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "30 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_御花园",
+      "target": "poi_神武门",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          11
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          11
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "5 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_午门",
+      "target": "poi_太和门",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          1
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          1
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "5 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_保和殿",
+      "target": "poi_乾清门",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          5
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          5
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "5 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_乾清门",
+      "target": "poi_乾清宫",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          6
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          6
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "23 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_乾清宫",
+      "target": "poi_交泰殿",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          7
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          7
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "14 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_东华门",
+      "target": "poi_文华殿",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          13
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          13
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_冰窖餐厅",
+      "target": "poi_御花园",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          10
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          10
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "37 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_交泰殿",
+      "target": "poi_坤宁宫",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          8
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          8
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "24 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_观赏故宫陶瓷馆藏_文华殿",
+      "target": "poi_午门出口",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          14
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          14
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_太和殿",
+      "target": "poi_中和殿",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          3
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          3
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "12 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_神武门",
+      "target": "poi_东华门",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          12
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          12
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "15 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_中和殿",
+      "target": "poi_保和殿",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          4
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          4
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "23 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "condition_route_就是故宫的午门",
+      "target": "poi_午门",
+      "type": "conditional",
+      "properties": {
+        "advice": "可以到天安门城楼上去看看，下来后你一直往里面走，就是故宫的午门",
+        "advice_samples": [
+          "可以到天安门城楼上去看看，下来后你一直往里面走，就是故宫的午门"
+        ],
+        "support_count": 1,
+        "weight": 0.8
+      }
+    }
+  ]
+}

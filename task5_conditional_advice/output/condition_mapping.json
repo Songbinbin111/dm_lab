@@ -1,0 +1,242 @@
+{
+  "other": {
+    "其他条件: 要回家过年": {
+      "condition_type": "other",
+      "condition_label": "其他条件",
+      "condition_raw_examples": [
+        "要回家过年"
+      ],
+      "advice_count": 1,
+      "unique_advice_count": 1,
+      "advice_frequency": [
+        {
+          "advice_text": "最好是点对点,不要过多聚首",
+          "count": 1
+        }
+      ],
+      "record_examples": [
+        {
+          "advice_id": "故宫_travelog_2_adv_0001",
+          "advice_text": "最好是点对点,不要过多聚首",
+          "action": "最好是点对点,不要过多聚首",
+          "scenic_spot": "故宫",
+          "travelog_id": "故宫_travelog_2",
+          "confidence": 0.8,
+          "evidence_sentence": "张伯礼同时提醒:要是要回家过年,特定要严峻遵守防疫要求,最好是点对点,不要过多聚首."
+        }
+      ]
+    },
+    "其他条件: 出来后你就从天安门广场的地下通道到天安门城楼附近": {
+      "condition_type": "other",
+      "condition_label": "其他条件",
+      "condition_raw_examples": [
+        "出来后你就从天安门广场的地下通道到天安门城楼附近"
+      ],
+      "advice_count": 1,
+      "unique_advice_count": 1,
+      "advice_frequency": [
+        {
+          "advice_text": "可以到天安门城楼上去看看，下来后你一直往里面走",
+          "count": 1
+        }
+      ],
+      "record_examples": [
+        {
+          "advice_id": "故宫_travelog_5_adv_0002",
+          "advice_text": "可以到天安门城楼上去看看，下来后你一直往里面走",
+          "action": "可以到天安门城楼上去看看",
+          "scenic_spot": "故宫",
+          "travelog_id": "故宫_travelog_5",
+          "confidence": 0.7,
+          "evidence_sentence": "出来后你就从天安门广场的地下通道到天安门城楼附近，你可以到天安门城楼上去看看，下来后你一直往里面走"
+        }
+      ]
+    },
+    "其他条件: 十一假期以后": {
+      "condition_type": "other",
+      "condition_label": "其他条件",
+      "condition_raw_examples": [
+        "十一假期以后"
+      ],
+      "advice_count": 1,
+      "unique_advice_count": 1,
+      "advice_frequency": [
+        {
+          "advice_text": "可以坐一站5路汽车从北门进,故宫最好多转转,珍宝馆是单收费的,不过看看挺不错的",
+          "count": 1
+        }
+      ],
+      "record_examples": [
+        {
+          "advice_id": "故宫_travelog_5_adv_0005",
+          "advice_text": "可以坐一站5路汽车从北门进,故宫最好多转转,珍宝馆是单收费的,不过看看挺不错的",
+          "action": "可以坐一站5路汽车从北门进,故宫最好多转",
+          "scenic_spot": "故宫",
+          "travelog_id": "故宫_travelog_5",
+          "confidence": 0.85,
+          "evidence_sentence": "请指点下~ 我建议您分这样几天: 第一天,早起一点儿,上午游览故宫,如果是十一假期以后,从南门进,顺便看看天安门,大剧院,如果是十一期间,故宫好像有些地方不开放,你可以坐一站5路汽车从北门进,故宫最好多转转,珍宝馆是单收费的,不过看看挺不错的."
+        }
+      ]
+    },
+    "其他条件: 指点下~我": {
+      "condition_type": "other",
+      "condition_label": "其他条件",
+      "condition_raw_examples": [
+        "指点下~我"
+      ],
+      "advice_count": 1,
+      "unique_advice_count": 1,
+      "advice_frequency": [
+        {
+          "advice_text": "建议您分这样几天:第一天，早起一点儿，上午游览故宫",
+          "count": 1
+        }
+      ],
+      "record_examples": [
+        {
+          "advice_id": "故宫_travelog_5_adv_0006",
+          "advice_text": "建议您分这样几天:第一天，早起一点儿，上午游览故宫",
+          "action": "建议您分这样几天:第一天",
+          "scenic_spot": "故宫",
+          "travelog_id": "故宫_travelog_5",
+          "confidence": 0.7,
+          "evidence_sentence": "请指点下~ 我建议您分这样几天: 第一天，早起一点儿，上午游览故宫"
+        }
+      ]
+    },
+    "其他条件: 十一": {
+      "condition_type": "other",
+      "condition_label": "其他条件",
+      "condition_raw_examples": [
+        "十一"
+      ],
+      "advice_count": 1,
+      "unique_advice_count": 1,
+      "advice_frequency": [
+        {
+          "advice_text": "可以坐一站5路汽车从北门进",
+          "count": 1
+        }
+      ],
+      "record_examples": [
+        {
+          "advice_id": "故宫_travelog_5_adv_0007",
+          "advice_text": "可以坐一站5路汽车从北门进",
+          "action": "可以坐一站5路汽车从北门进",
+          "scenic_spot": "故宫",
+          "travelog_id": "故宫_travelog_5",
+          "confidence": 0.85,
+          "evidence_sentence": "如果是十一期间，故宫好像有些地方不开放，你可以坐一站5路汽车从北门进"
+        }
+      ]
+    },
+    "其他条件: 山下两晚商务酒店标准间(补单房差加160元/人/天×2天)6": {
+      "condition_type": "other",
+      "condition_label": "其他条件",
+      "condition_raw_examples": [
+        "山下两晚商务酒店标准间(补单房差加160元/人/天×2天)6"
+      ],
+      "advice_count": 1,
+      "unique_advice_count": 1,
+      "advice_frequency": [
+        {
+          "advice_text": "建议购买旅游意外险20元/人",
+          "count": 1
+        }
+      ],
+      "record_examples": [
+        {
+          "advice_id": "黄山_travelog_5_adv_0001",
+          "advice_text": "建议购买旅游意外险20元/人",
+          "action": "建议购买旅游意外险20元/人",
+          "scenic_spot": "黄山",
+          "travelog_id": "黄山_travelog_5",
+          "confidence": 0.7,
+          "evidence_sentence": "不含玻璃栈道78元/人自理) 4,住宿:山下两晚商务酒店标准间(补单房差加160元/人/天×2天) 6,保险:旅行社责任险,建议购买旅游意外险20元/人"
+        }
+      ]
+    }
+  },
+  "time": {
+    "时间条件: 看完升旗后可以在天安门广场上转转,等到8点": {
+      "condition_type": "time",
+      "condition_label": "时间条件",
+      "condition_raw_examples": [
+        "看完升旗后可以在天安门广场上转转,等到8点"
+      ],
+      "advice_count": 1,
+      "unique_advice_count": 1,
+      "advice_frequency": [
+        {
+          "advice_text": "可以在天安门广场去排队参观毛主席纪念堂",
+          "count": 1
+        }
+      ],
+      "record_examples": [
+        {
+          "advice_id": "故宫_travelog_5_adv_0001",
+          "advice_text": "可以在天安门广场去排队参观毛主席纪念堂",
+          "action": "可以在天安门广场去排队参观毛主席纪念堂",
+          "scenic_spot": "故宫",
+          "travelog_id": "故宫_travelog_5",
+          "confidence": 0.95,
+          "evidence_sentence": "看完升旗后可以在天安门广场上转转,等到8点的时候,可以在天安门广场去排队参观毛主席纪念堂."
+        }
+      ]
+    }
+  },
+  "route": {
+    "路线条件: 就是故宫的午门": {
+      "condition_type": "route",
+      "condition_label": "路线条件",
+      "condition_raw_examples": [
+        "就是故宫的午门"
+      ],
+      "advice_count": 1,
+      "unique_advice_count": 1,
+      "advice_frequency": [
+        {
+          "advice_text": "可以到天安门城楼上去看看，下来后你一直往里面走，就是故宫的午门",
+          "count": 1
+        }
+      ],
+      "record_examples": [
+        {
+          "advice_id": "故宫_travelog_5_adv_0003",
+          "advice_text": "可以到天安门城楼上去看看，下来后你一直往里面走，就是故宫的午门",
+          "action": "可以到天安门城楼上去看看",
+          "scenic_spot": "故宫",
+          "travelog_id": "故宫_travelog_5",
+          "confidence": 0.9,
+          "evidence_sentence": "你可以到天安门城楼上去看看，下来后你一直往里面走，就是故宫的午门"
+        }
+      ]
+    },
+    "路线条件: 详细点的路线~酒店在天安门那边": {
+      "condition_type": "route",
+      "condition_label": "路线条件",
+      "condition_raw_examples": [
+        "详细点的路线~酒店在天安门那边"
+      ],
+      "advice_count": 1,
+      "unique_advice_count": 1,
+      "advice_frequency": [
+        {
+          "advice_text": "推荐详细点的路线~酒店在天安门那边,想去长城,798,三里屯,故宫",
+          "count": 1
+        }
+      ],
+      "record_examples": [
+        {
+          "advice_id": "故宫_travelog_5_adv_0004",
+          "advice_text": "推荐详细点的路线~酒店在天安门那边,想去长城,798,三里屯,故宫",
+          "action": "推荐详细点的路线~酒店在天安门那边,想去",
+          "scenic_spot": "故宫",
+          "travelog_id": "故宫_travelog_5",
+          "confidence": 0.9,
+          "evidence_sentence": "请推荐详细点的路线~酒店在天安门那边,想去长城,798,三里屯,故宫."
+        }
+      ]
+    }
+  }
+}

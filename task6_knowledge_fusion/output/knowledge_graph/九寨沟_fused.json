@@ -1,0 +1,291 @@
+{
+  "scenic_spot": "九寨沟",
+  "fused_pois": [
+    "诺日朗中心站",
+    "盆景滩",
+    "沟口乘车",
+    "箭竹海",
+    "诺日朗群海",
+    "五花海",
+    "原始森林",
+    "镜海",
+    "五彩池",
+    "双龙海",
+    "熊猫海",
+    "天鹅海",
+    "芳草海",
+    "长海",
+    "犀牛海",
+    "卧龙海",
+    "地区",
+    "天湖",
+    "旅游区",
+    "青城山"
+  ],
+  "poi_weights": {
+    "诺日朗中心站": 0.7,
+    "盆景滩": 0.7,
+    "沟口乘车": 0.7,
+    "箭竹海": 0.7,
+    "诺日朗群海": 0.7,
+    "五花海": 0.7,
+    "原始森林": 0.7,
+    "镜海": 0.7,
+    "五彩池": 0.7,
+    "双龙海": 0.7,
+    "熊猫海": 0.7,
+    "天鹅海": 0.7,
+    "芳草海": 0.7,
+    "长海": 0.7,
+    "犀牛海": 0.7,
+    "卧龙海": 0.7,
+    "地区": 0.45,
+    "天湖": 0.45,
+    "旅游区": 0.45,
+    "青城山": 0.45
+  },
+  "statistics": {
+    "official_poi_count": 16,
+    "visitor_poi_count": 74,
+    "fused_poi_count": 20,
+    "visitor_supplemented_count": 4,
+    "advice_matched_count": 0,
+    "advice_unmatched_count": 0
+  },
+  "time_periods": {},
+  "normalized_routes": [
+    {
+      "from_poi": "沟口乘车",
+      "to_poi": "原始森林",
+      "route_id": "main",
+      "sequence_index": 1,
+      "period": "清晨",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "原始森林",
+      "to_poi": "芳草海",
+      "route_id": "main",
+      "sequence_index": 2,
+      "period": "清晨",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "20 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "芳草海",
+      "to_poi": "天鹅海",
+      "route_id": "main",
+      "sequence_index": 3,
+      "period": "上午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "10 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "天鹅海",
+      "to_poi": "箭竹海",
+      "route_id": "main",
+      "sequence_index": 4,
+      "period": "上午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "15 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "箭竹海",
+      "to_poi": "熊猫海",
+      "route_id": "main",
+      "sequence_index": 5,
+      "period": "上午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "15 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "熊猫海",
+      "to_poi": "五花海",
+      "route_id": "main",
+      "sequence_index": 6,
+      "period": "上午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "20 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "五花海",
+      "to_poi": "镜海",
+      "route_id": "main",
+      "sequence_index": 7,
+      "period": "上午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "20 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "镜海",
+      "to_poi": "诺日朗群海",
+      "route_id": "main",
+      "sequence_index": 8,
+      "period": "中午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "10 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "诺日朗群海",
+      "to_poi": "诺日朗中心站",
+      "route_id": "main",
+      "sequence_index": 9,
+      "period": "中午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "诺日朗中心站",
+      "to_poi": "长海",
+      "route_id": "main",
+      "sequence_index": 10,
+      "period": "下午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "20 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "长海",
+      "to_poi": "五彩池",
+      "route_id": "main",
+      "sequence_index": 11,
+      "period": "下午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "15 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "五彩池",
+      "to_poi": "犀牛海",
+      "route_id": "main",
+      "sequence_index": 12,
+      "period": "下午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "20 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "卧龙海",
+      "to_poi": "双龙海",
+      "route_id": "main",
+      "sequence_index": 13,
+      "period": "下午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "双龙海",
+      "to_poi": "盆景滩",
+      "route_id": "main",
+      "sequence_index": 14,
+      "period": "傍晚",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "10 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "盆景滩",
+      "to_poi": "沟口乘车",
+      "route_id": "main",
+      "sequence_index": 15,
+      "period": "傍晚",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "",
+      "source_format": "structured_time_route"
+    }
+  ],
+  "route_normalization_report": {
+    "route_format": "arrow_text",
+    "parsed_route_count": 15,
+    "normalized_route_count": 15,
+    "official_poi_count": 16,
+    "time_period_count": 0
+  },
+  "recommended_route": {
+    "route_id": "main",
+    "reason": "single_route",
+    "score": 1.0,
+    "route_scores": {
+      "main": 1.0
+    }
+  },
+  "visitor_supplemented": [
+    "地区",
+    "天湖",
+    "旅游区",
+    "青城山"
+  ],
+  "visitor_supplemented_details": [
+    {
+      "poi": "地区",
+      "doc_frequency": 2,
+      "score": 0.61,
+      "source": "visitor"
+    },
+    {
+      "poi": "天湖",
+      "doc_frequency": 2,
+      "score": 0.61,
+      "source": "visitor"
+    },
+    {
+      "poi": "旅游区",
+      "doc_frequency": 2,
+      "score": 0.61,
+      "source": "visitor"
+    },
+    {
+      "poi": "青城山",
+      "doc_frequency": 2,
+      "score": 0.61,
+      "source": "visitor"
+    }
+  ],
+  "condition_cleaning_report": {
+    "input_advice_count": 0,
+    "output_advice_count": 0,
+    "dropped_count": 0,
+    "dropped_reasons": {}
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "sequence": {
+    "label": "游览顺序",
+    "color": "#3B82F6",
+    "style": "solid",
+    "width_base": 2.0,
+    "alpha": 0.6,
+    "arrow": true
+  },
+  "transport": {
+    "label": "交通连接",
+    "color": "#22C55E",
+    "style": "dashed",
+    "width_base": 1.5,
+    "alpha": 0.5,
+    "arrow": true
+  },
+  "conditional": {
+    "label": "条件关系",
+    "color": "#8B5CF6",
+    "style": "dotted",
+    "width_base": 1.8,
+    "alpha": 0.5,
+    "arrow": true
+  },
+  "temporal": {
+    "label": "时间关系",
+    "color": "#6366F1",
+    "style": "solid",
+    "width_base": 1.0,
+    "alpha": 0.3,
+    "arrow": false
+  }
+}

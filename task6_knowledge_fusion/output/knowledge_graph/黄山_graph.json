@@ -1,0 +1,679 @@
+{
+  "metadata": {
+    "scenic_spot": "黄山",
+    "generated_at": "2026-03-03T23:27:05.921687",
+    "graph_stats": {
+      "total_nodes": 17,
+      "total_edges": 15
+    },
+    "condition_cleaning_report": {
+      "input_advice_count": 0,
+      "output_advice_count": 0,
+      "dropped_count": 0,
+      "dropped_reasons": {},
+      "kept_other_subtypes": {},
+      "condition_node_count": 0
+    }
+  },
+  "nodes": [
+    {
+      "id": "poi_黑虎松",
+      "type": "poi",
+      "label": "黑虎松",
+      "properties": {
+        "display_label": "黑虎松",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_黄山南大门",
+      "type": "poi",
+      "label": "黄山南大门",
+      "properties": {
+        "display_label": "黄山南大门",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_排云亭景观区",
+      "type": "poi",
+      "label": "排云亭景观区",
+      "properties": {
+        "display_label": "排云亭景观区",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_慈光阁景观区",
+      "type": "poi",
+      "label": "慈光阁景观区",
+      "properties": {
+        "display_label": "慈光阁景观区",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_玉屏楼景观区",
+      "type": "poi",
+      "label": "玉屏楼景观区",
+      "properties": {
+        "display_label": "玉屏楼景观区",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_云谷寺景观区",
+      "type": "poi",
+      "label": "云谷寺景观区",
+      "properties": {
+        "display_label": "云谷寺景观区",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_西海大峡谷一环",
+      "type": "poi",
+      "label": "西海大峡谷一环",
+      "properties": {
+        "display_label": "西海大峡谷一环",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_鳌鱼峰",
+      "type": "poi",
+      "label": "鳌鱼峰",
+      "properties": {
+        "display_label": "鳌鱼峰",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_百步云梯",
+      "type": "poi",
+      "label": "百步云梯",
+      "properties": {
+        "display_label": "百步云梯",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_大王松",
+      "type": "poi",
+      "label": "大王松",
+      "properties": {
+        "display_label": "大王松",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_白鹅岭",
+      "type": "poi",
+      "label": "白鹅岭",
+      "properties": {
+        "display_label": "白鹅岭",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_白云宾馆",
+      "type": "poi",
+      "label": "白云宾馆",
+      "properties": {
+        "display_label": "白云宾馆",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_飞来石",
+      "type": "poi",
+      "label": "飞来石",
+      "properties": {
+        "display_label": "飞来石",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_始信峰景观区",
+      "type": "poi",
+      "label": "始信峰景观区",
+      "properties": {
+        "display_label": "始信峰景观区",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_打卡标志性迎客松_玉屏楼",
+      "type": "poi",
+      "label": "打卡标志性迎客松)玉屏楼",
+      "properties": {
+        "display_label": "打卡标志性迎客松)玉屏楼",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_光明顶",
+      "type": "poi",
+      "label": "光明顶",
+      "properties": {
+        "display_label": "光明顶",
+        "source": "official",
+        "weight": 0.7,
+        "importance_score": 0.7,
+        "original_type": "poi"
+      }
+    },
+    {
+      "id": "poi_地区",
+      "type": "poi",
+      "label": "地区",
+      "properties": {
+        "display_label": "地区",
+        "source": "visitor",
+        "weight": 0.45,
+        "importance_score": 0.45,
+        "original_type": "poi"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "poi_黑虎松",
+      "target": "poi_大王松",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          5
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          5
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "2 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_黄山南大门",
+      "target": "poi_云谷寺景观区",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          1
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          1
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_排云亭景观区",
+      "target": "poi_西海大峡谷一环",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          7
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          7
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "20 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_慈光阁景观区",
+      "target": "poi_黄山南大门",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          15
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          15
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_云谷寺景观区",
+      "target": "poi_白鹅岭",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          2
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          2
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_西海大峡谷一环",
+      "target": "poi_飞来石",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          8
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          8
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "10 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_鳌鱼峰",
+      "target": "poi_百步云梯",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          12
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          12
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "5 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_百步云梯",
+      "target": "poi_玉屏楼景观区",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          13
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          13
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_大王松",
+      "target": "poi_排云亭景观区",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          6
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          6
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "15 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_白鹅岭",
+      "target": "poi_始信峰景观区",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          3
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          3
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "20 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_白云宾馆",
+      "target": "poi_鳌鱼峰",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          11
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          11
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "10 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_飞来石",
+      "target": "poi_光明顶",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          9
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          9
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "15 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_始信峰景观区",
+      "target": "poi_黑虎松",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          4
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          4
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [
+          "5 分钟"
+        ],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_打卡标志性迎客松_玉屏楼",
+      "target": "poi_慈光阁景观区",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          14
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          14
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    },
+    {
+      "source": "poi_光明顶",
+      "target": "poi_白云宾馆",
+      "type": "sequence",
+      "properties": {
+        "support_count": 1,
+        "route_ids": [
+          "main"
+        ],
+        "route_support": {
+          "main": 1
+        },
+        "sequence_indices": [
+          10
+        ],
+        "recommended_route_id": "main",
+        "recommended_support_count": 1,
+        "recommended_sequence_indices": [
+          10
+        ],
+        "is_recommended": true,
+        "transport": "",
+        "source_format": "structured_time_route",
+        "time_windows": [],
+        "durations": [],
+        "weight": 1.0,
+        "importance_score": 1.0
+      }
+    }
+  ]
+}

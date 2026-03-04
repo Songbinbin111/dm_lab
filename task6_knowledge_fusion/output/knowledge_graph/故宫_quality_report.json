@@ -1,0 +1,71 @@
+{
+  "scenic_spot": "故宫",
+  "generated_at": "2026-03-03T23:27:05.642058",
+  "fusion_statistics": {
+    "official_poi_count": 17,
+    "visitor_poi_count": 41,
+    "fused_poi_count": 18,
+    "visitor_supplemented_count": 1,
+    "advice_matched_count": 1,
+    "advice_unmatched_count": 7
+  },
+  "route_normalization_report": {
+    "route_format": "arrow_text",
+    "parsed_route_count": 14,
+    "normalized_route_count": 14,
+    "official_poi_count": 17,
+    "time_period_count": 0
+  },
+  "recommended_route": {
+    "route_id": "main",
+    "reason": "single_route",
+    "score": 1.0,
+    "route_scores": {
+      "main": 1.0
+    }
+  },
+  "visitor_supplemented": [
+    "展区"
+  ],
+  "visitor_supplemented_details": [
+    {
+      "poi": "展区",
+      "doc_frequency": 2,
+      "score": 0.61,
+      "source": "visitor"
+    }
+  ],
+  "condition_cleaning_report": {
+    "input_advice_count": 1,
+    "output_advice_count": 1,
+    "dropped_count": 0,
+    "dropped_reasons": {},
+    "kept_other_subtypes": {},
+    "condition_node_count": 1
+  },
+  "graph_statistics": {
+    "total_nodes": 19,
+    "total_edges": 15,
+    "node_types": {
+      "poi": 18,
+      "condition": 1
+    },
+    "edge_types": {
+      "sequence": 14,
+      "conditional": 1
+    },
+    "condition_subtypes": {
+      "route": 1
+    }
+  },
+  "condition_advice_samples": [
+    {
+      "condition": "就是故宫的午门",
+      "condition_type": "route",
+      "condition_subtype": "route",
+      "poi": "午门",
+      "advice": "可以到天安门城楼上去看看，下来后你一直往里面走，就是故宫的午门",
+      "advice_id": "故宫_travelog_5_adv_0003"
+    }
+  ]
+}

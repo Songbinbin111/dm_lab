@@ -1,0 +1,254 @@
+{
+  "scenic_spot": "故宫",
+  "fused_pois": [
+    "午门出口",
+    "坤宁宫",
+    "太和门",
+    "御花园",
+    "午门",
+    "保和殿",
+    "故宫冰窖餐厅",
+    "乾清门",
+    "乾清宫",
+    "东华门",
+    "文华殿",
+    "冰窖餐厅",
+    "交泰殿",
+    "观赏故宫陶瓷馆藏)文华殿",
+    "太和殿",
+    "神武门",
+    "中和殿",
+    "展区"
+  ],
+  "poi_weights": {
+    "午门出口": 0.7,
+    "坤宁宫": 0.7,
+    "太和门": 0.7,
+    "御花园": 0.7,
+    "午门": 0.76,
+    "保和殿": 0.7,
+    "故宫冰窖餐厅": 0.7,
+    "乾清门": 0.7,
+    "乾清宫": 0.7,
+    "东华门": 0.7,
+    "文华殿": 0.7,
+    "冰窖餐厅": 0.7,
+    "交泰殿": 0.7,
+    "观赏故宫陶瓷馆藏)文华殿": 0.7,
+    "太和殿": 0.7,
+    "神武门": 0.76,
+    "中和殿": 0.7,
+    "展区": 0.45
+  },
+  "statistics": {
+    "official_poi_count": 17,
+    "visitor_poi_count": 41,
+    "fused_poi_count": 18,
+    "visitor_supplemented_count": 1,
+    "advice_matched_count": 1,
+    "advice_unmatched_count": 7
+  },
+  "time_periods": {},
+  "normalized_routes": [
+    {
+      "from_poi": "午门",
+      "to_poi": "太和门",
+      "route_id": "main",
+      "sequence_index": 1,
+      "period": "清晨",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "5 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "太和门",
+      "to_poi": "太和殿",
+      "route_id": "main",
+      "sequence_index": 2,
+      "period": "清晨",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "30 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "太和殿",
+      "to_poi": "中和殿",
+      "route_id": "main",
+      "sequence_index": 3,
+      "period": "上午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "12 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "中和殿",
+      "to_poi": "保和殿",
+      "route_id": "main",
+      "sequence_index": 4,
+      "period": "上午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "23 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "保和殿",
+      "to_poi": "乾清门",
+      "route_id": "main",
+      "sequence_index": 5,
+      "period": "上午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "5 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "乾清门",
+      "to_poi": "乾清宫",
+      "route_id": "main",
+      "sequence_index": 6,
+      "period": "上午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "23 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "乾清宫",
+      "to_poi": "交泰殿",
+      "route_id": "main",
+      "sequence_index": 7,
+      "period": "上午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "14 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "交泰殿",
+      "to_poi": "坤宁宫",
+      "route_id": "main",
+      "sequence_index": 8,
+      "period": "上午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "24 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "坤宁宫",
+      "to_poi": "故宫冰窖餐厅",
+      "route_id": "main",
+      "sequence_index": 9,
+      "period": "中午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "冰窖餐厅",
+      "to_poi": "御花园",
+      "route_id": "main",
+      "sequence_index": 10,
+      "period": "下午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "37 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "御花园",
+      "to_poi": "神武门",
+      "route_id": "main",
+      "sequence_index": 11,
+      "period": "下午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "5 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "神武门",
+      "to_poi": "东华门",
+      "route_id": "main",
+      "sequence_index": 12,
+      "period": "下午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "15 分钟",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "东华门",
+      "to_poi": "文华殿",
+      "route_id": "main",
+      "sequence_index": 13,
+      "period": "上午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "",
+      "source_format": "structured_time_route"
+    },
+    {
+      "from_poi": "观赏故宫陶瓷馆藏)文华殿",
+      "to_poi": "午门出口",
+      "route_id": "main",
+      "sequence_index": 14,
+      "period": "下午",
+      "transport": "",
+      "time_start": "",
+      "time_end": "",
+      "duration": "",
+      "source_format": "structured_time_route"
+    }
+  ],
+  "route_normalization_report": {
+    "route_format": "arrow_text",
+    "parsed_route_count": 14,
+    "normalized_route_count": 14,
+    "official_poi_count": 17,
+    "time_period_count": 0
+  },
+  "recommended_route": {
+    "route_id": "main",
+    "reason": "single_route",
+    "score": 1.0,
+    "route_scores": {
+      "main": 1.0
+    }
+  },
+  "visitor_supplemented": [
+    "展区"
+  ],
+  "visitor_supplemented_details": [
+    {
+      "poi": "展区",
+      "doc_frequency": 2,
+      "score": 0.61,
+      "source": "visitor"
+    }
+  ],
+  "condition_cleaning_report": {
+    "input_advice_count": 1,
+    "output_advice_count": 1,
+    "dropped_count": 0,
+    "dropped_reasons": {}
+  }
+}

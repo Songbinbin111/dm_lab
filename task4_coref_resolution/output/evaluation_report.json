@@ -1,0 +1,110 @@
+{
+  "summary": {
+    "total_cases": 15,
+    "correct": 9,
+    "incorrect": 6,
+    "not_resolved": 0,
+    "accuracy": "60.0%"
+  },
+  "by_pronoun_type": {
+    "personal": {
+      "total": 5,
+      "correct": 2,
+      "accuracy": 0.4
+    },
+    "demonstrative_location": {
+      "total": 4,
+      "correct": 2,
+      "accuracy": 0.5
+    },
+    "demonstrative_phrase": {
+      "total": 6,
+      "correct": 5,
+      "accuracy": 0.8333333333333334
+    }
+  },
+  "by_antecedent_type": {
+    "Person": {
+      "total": 4,
+      "correct": 2,
+      "accuracy": 0.5
+    },
+    "POI": {
+      "total": 5,
+      "correct": 3,
+      "accuracy": 0.6
+    },
+    "Location": {
+      "total": 5,
+      "correct": 4,
+      "accuracy": 0.8
+    },
+    "Object": {
+      "total": 1,
+      "correct": 0,
+      "accuracy": 0.0
+    }
+  },
+  "error_analysis": [
+    {
+      "sentence_id": "故宫_故宫_travelog_4_12",
+      "sentence": "在这里,悬崖为游乐场特了一层实景体验的滤镜",
+      "pronoun": "这里",
+      "manual_antecedent": "奥陶纪",
+      "auto_antecedent": "山野",
+      "error_type": "incorrect_resolution",
+      "confidence": "medium",
+      "method": "nearest_location_in_context"
+    },
+    {
+      "sentence_id": "黄山_黄山_travelog_1_9",
+      "sentence": "根据规划,公园内需建别墅群30000平方米,四星级酒店一处...",
+      "pronoun": "园内",
+      "manual_antecedent": "公园",
+      "auto_antecedent": "半山",
+      "error_type": "incorrect_resolution",
+      "confidence": "medium",
+      "method": "nearest_location_in_context"
+    },
+    {
+      "sentence_id": "九寨沟_九寨沟_travelog_1_3",
+      "sentence": "郫县因\"杜宇化鹃\"的美丽传说郫县又称鹃城县花为杜鹃花县鸟为杜鹃鸟.历史文化遗迹众多望丛祠,杜鹃城遗址,古城遗址,扬雄墓,子云亭(因一句\"南阳诸葛庐西蜀子云亭\"成名)等被列入国家重点文物管理局主编的\"中国名胜辞典\".此外还有何武墓,何公祠,郫筒井,严君平墓,梅花御井,蓝家坡山汉墓等.郫县郫筒镇有\"望从祠\"其名为纪念古蜀国的望帝和丛帝.望帝即望帝杜宇丛帝即开明又称鳖灵.李商隐诗句\"望帝春心托杜鹃\"所说的就是他们的故事.",
+      "pronoun": "他们",
+      "manual_antecedent": "望帝和丛帝",
+      "auto_antecedent": "杜鹃",
+      "error_type": "incorrect_resolution",
+      "confidence": "high",
+      "method": "nearest_person_name_in_context"
+    },
+    {
+      "sentence_id": "九寨沟_九寨沟_travelog_3_7",
+      "sentence": "他历经艰险困厄,幡然醒悟,于是苦行修炼,还勇斗孽龙,降魔治水,终成正果,得赐金身天龙.能施降甘霖,惠及四方,使这里风调雨顺,人寿安康,百姓幸福,从此褒赞之誉在民间传播开来.",
+      "pronoun": "他",
+      "manual_antecedent": "十三太子",
+      "auto_antecedent": "龙王",
+      "error_type": "incorrect_resolution",
+      "confidence": "high",
+      "method": "nearest_person_name_in_context"
+    },
+    {
+      "sentence_id": "九寨沟_九寨沟_travelog_4_11",
+      "sentence": "2020年2019年3月27日,我们与四川签署协同提高旅游业发展合同,它是两省区拓张经贸,搭建发展双赢的全局性对策.",
+      "pronoun": "它",
+      "manual_antecedent": "合同",
+      "auto_antecedent": "旅游业",
+      "error_type": "incorrect_resolution",
+      "confidence": "medium",
+      "method": "nearest_object_in_context"
+    },
+    {
+      "sentence_id": "九寨沟_九寨沟_travelog_3_3",
+      "sentence": "这里,山谷林木蓊郁,枫叶红过又随山风飘落,那枝头的红叶摇成小旗,在欢呼,歌唱,幽静的文昌阁则矗守在半山腰.辽东栎成为山上一道靓丽的风景线.",
+      "pronoun": "这里",
+      "manual_antecedent": "九寨沟",
+      "auto_antecedent": "龙潭",
+      "error_type": "incorrect_resolution",
+      "confidence": "medium",
+      "method": "nearest_location_in_context"
+    }
+  ]
+}
