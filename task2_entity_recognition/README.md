@@ -66,8 +66,6 @@ python generate_wordcloud.py
   ```
   成功结果如下：出现Successfully installed ...
 
-  ![77250864519](E:\dm_lab\assets\1772508645193.png)
-
 - **第 2 步：维护自定义词典**（3min）
   检查 `custom_dicts/` 目录，浏览 poi/ 下的 gugong.txt , huangshan.txt , jiuzhaigou.txt 文件，检查里面的景点名称是否和你采集的数据一致。如果不一致，可以手动补充，这能提高后续实体识别的准确率。
 
@@ -90,15 +88,9 @@ python generate_wordcloud.py
 
   运行成功结果如下：
 
-  ![77254238865](E:\dataLab\assets\1772542388659.png)
-
-  ![77254243556](E:\dataLab\assets\1772542435562.png)
-
 - 第 4 步：查看生成的词云图(3min)
 
   查看output\wordcloud下生成的词云图，检查实体识别的准确性（是否准确输出景点）、词频权重的体现（字号越大 的词代表在游记中出现的频率越高）、词典过滤的效果（没有出现明显的广告词或无意义的助词），如下(总共9图)：
-
-![77254260841](E:\dataLab\assets\1772542608413.png)
 
 > 由于词云生成的随机性：词语位置、旋转方向、颜色分配等会发生变化。
 

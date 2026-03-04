@@ -53,8 +53,6 @@ python preprocess.py
 
 成功结果如下：出现Requirement already satisfied
 
-![77250584473](E:\dm_lab\assets\1772505844733.png)
-
 可以通过此命令确认：
 
 ~~~bash
@@ -62,8 +60,6 @@ py -3 -c "import pandas; import openpyxl; print('Pandas version:', pandas.__vers
 ~~~
 
 如果能正常输出版本号，说明安装成功。
-
-![77250653703](E:\dm_lab\assets\1772506537030.png)
 
 - 第 2 步：查看原始数据(1min)
   在 `data/data.xlsx` 中查看三个景区（九寨沟、故宫、黄山）的官方推荐路线和游客游记。
@@ -84,8 +80,6 @@ py preprocess.py -i data/data.xlsx -o data/data_cleaned.xlsx
 
 成功结果如下：
 
-![77254215419](E:\dataLab\assets\1772542154190.png)
-
 - **第 4 步：查看清洗后的数据**变化（2min）
 
   **位置**：`task1_data_collection`/data 目录。
@@ -93,9 +87,5 @@ py preprocess.py -i data/data.xlsx -o data/data_cleaned.xlsx
 查看data.xlsx和data_cleaned.xlsx的内容，观察是否去除空值、格式统一、删除了游记顶部的标题、作者、日期、来源等元数据、去除了类似 【上午】 、 【行程安排】 等导航式标签等等，将 非结构化的自然语言文本 转化为 结构化的程序性描述语料。
 
 效果对比如下：
-
-![77254227427](E:\dataLab\assets\1772542274274.png)
-
-![77254225835](E:\dataLab\assets\1772542258355.png)
 
 - 预计耗时：15 分钟

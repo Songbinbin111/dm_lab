@@ -91,21 +91,10 @@ python route_analyzer.py
   ```
   运行结果如下：
 
-  ![77251408448](E:\dataLab\assets\1772542670228.png)
-
 - 第 2 步：检查 `hierarchies/` 下的 JSON 和 PNG 图片。（5min）
   成功图片如下：
 
-  ![77254679815](E:\dataLab\assets\1772546798157.png)
-
-  ​
-
-  ​
-
-
 - 第 3 步：检查comparisons/下的图片和报告（2min）
-
-  ![77254683587](E:\dataLab\assets\1772546835875.png)
 
 - 第 4 步：单独运行各模块(4min)
 
@@ -118,10 +107,6 @@ python route_analyzer.py
 ~~~
 
 运行成功截图：
-
-![77254705168](E:\dataLab\assets\1772547051682.png)
-
-![77254714345](E:\dataLab\assets\1772547143452.png)
 
 - 第 5 步:检查route_hierarchy和route_comparison两文件夹下是否生成了对应的解析和对比报告，并且查看其中内容（3min）
 

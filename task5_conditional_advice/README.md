@@ -108,10 +108,6 @@ python main.py --evaluate
 
 成功结果如下:
 
-![77254988859](E:\dataLab\assets\1772549888594.png)
-
-![77254990319](E:\dataLab\assets\1772549903191.png)
-
 - **第 2 步：检查配置**
   根据需要调整 `config/` 中的触发词库。
 - **注意事项**：

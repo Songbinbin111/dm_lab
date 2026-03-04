@@ -32,9 +32,6 @@ task7_agent/
   ```bash
   go run .
   ```
-  ![77259467364](E:\dataLab\task7_agent\assets\1772594673647.png)
-
-  ![77259470113](E:\dataLab\task7_agent\assets\1772594701134.png)
 
   注意事项**：
 
